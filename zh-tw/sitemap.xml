@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.kui.guru/zh-tw/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.kui.guru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.kui.guru/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.kui.guru/zh-tw/"
+                />
+  </url><url>
+    <loc>https://blog.kui.guru/zh-tw/page/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.kui.guru/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.kui.guru/en/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.kui.guru/zh-tw/page/"
+                />
+  </url><url>
+    <loc>https://blog.kui.guru/zh-tw/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.kui.guru/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.kui.guru/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.kui.guru/zh-tw/archives/"
+                />
+  </url><url>
     <loc>https://blog.kui.guru/zh-tw/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -36,21 +90,55 @@
                 href="https://blog.kui.guru/zh-tw/tags/"
                 />
   </url><url>
-    <loc>https://blog.kui.guru/zh-tw/</loc>
+    <loc>https://blog.kui.guru/zh-tw/%E5%8F%8B%E9%8F%88/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.kui.guru/"
+                href="https://blog.kui.guru/%E5%8F%8B%E9%93%BE/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.kui.guru/en/"
+                href="https://blog.kui.guru/en/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="https://blog.kui.guru/zh-tw/"
+                href="https://blog.kui.guru/zh-tw/%E5%8F%8B%E9%8F%88/"
+                />
+  </url><url>
+    <loc>https://blog.kui.guru/zh-tw/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.kui.guru/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.kui.guru/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.kui.guru/zh-tw/search/"
+                />
+  </url><url>
+    <loc>https://blog.kui.guru/zh-tw/%E9%97%9C%E6%96%BC/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.kui.guru/%E5%85%B3%E4%BA%8E/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.kui.guru/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.kui.guru/zh-tw/%E9%97%9C%E6%96%BC/"
                 />
   </url>
 </urlset>
