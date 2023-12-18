@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.kui.guru/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-19T06:00:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -19,6 +19,54 @@
                 hreflang="zh-cn"
                 href="https://blog.kui.guru/"
                 />
+  </url><url>
+    <loc>https://blog.kui.guru/p/malaysia-plan/</loc>
+    <lastmod>2023-12-19T06:00:58+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kui.guru/categories/</loc>
+    <lastmod>2023-12-19T06:00:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.kui.guru/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.kui.guru/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.kui.guru/categories/"
+                />
+  </url><url>
+    <loc>https://blog.kui.guru/post/</loc>
+    <lastmod>2023-12-19T06:00:58+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kui.guru/tags/</loc>
+    <lastmod>2023-12-19T06:00:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://blog.kui.guru/zh-tw/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.kui.guru/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.kui.guru/tags/"
+                />
+  </url><url>
+    <loc>https://blog.kui.guru/categories/%E6%97%85%E8%A1%8C/</loc>
+    <lastmod>2023-12-19T06:00:58+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.kui.guru/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2023-12-19T06:00:58+08:00</lastmod>
   </url><url>
     <loc>https://blog.kui.guru/page/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
@@ -56,28 +104,7 @@
                 href="https://blog.kui.guru/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://blog.kui.guru/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://blog.kui.guru/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.kui.guru/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://blog.kui.guru/categories/"
-                />
-  </url><url>
     <loc>https://blog.kui.guru/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.kui.guru/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.kui.guru/categories/test/</loc>
@@ -118,24 +145,6 @@
   </url><url>
     <loc>https://blog.kui.guru/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.kui.guru/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="https://blog.kui.guru/zh-tw/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.kui.guru/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://blog.kui.guru/tags/"
-                />
   </url><url>
     <loc>https://blog.kui.guru/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
